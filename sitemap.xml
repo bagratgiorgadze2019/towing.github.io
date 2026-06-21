@@ -31,6 +31,24 @@
   <lastmod>2025-04-12T18:49:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://towing.ge/services/milebis-shedugheba/</loc>
+  <lastmod>2026-06-22</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://towing.ge/services/milebis-shedugheba/index-en.html</loc>
+  <lastmod>2026-06-22</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://towing.ge/services/milebis-shedugheba/index-ru.html</loc>
+  <lastmod>2026-06-22</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.70</priority>
+</url>
 
 
 </urlset>
