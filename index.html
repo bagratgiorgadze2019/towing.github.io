@@ -34,21 +34,34 @@
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Towing.ge",
-          "description": "ევაკუატორის გამოძახება — სწრაფი და სანდო მომსახურება.",
+          "image": "https://towing.ge/assets/0.webp",
+          "description": "ევაკუატორის გამოძახება — სწრაფი და სანდო მომსახურება 24/7.",
           "url": "https://towing.ge",
-          "telephone": "+995 514 90 80 90",
+          "telephone": "+995514908090",
+          "priceRange": "$$",
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "საქართველო",
+            "addressLocality": "თბილისი",
+            "addressRegion": "თბილისი",
             "addressCountry": "GE"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.7151,
+            "longitude": 44.8271
           },
           "areaServed": {
             "@type": "Place",
             "name": "საქართველო"
           },
-          "openingHours": "Mo-Su 00:00-23:59",
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+            "opens": "00:00",
+            "closes": "23:59"
+          },
           "sameAs": [
-            "facebook.com/evakuatoris.gamodzaxeba"
+            "https://www.facebook.com/evakuatoris.gamodzaxeba"
           ]
         }
         </script>
@@ -367,6 +380,52 @@
             </div>
         </section>
         
+        <!-- FAQ section-->
+        <section class="py-5 border-top" id="faq">
+            <div class="container px-5 my-5">
+                <div class="text-center mb-5">
+                    <h2 class="fw-bolder">ხშირად დასმული კითხვები</h2>
+                    <p class="lead mb-0">პასუხები ყველაზე გავრცელებულ კითხვებზე</p>
+                </div>
+                <div class="row gx-5 justify-content-center">
+                    <div class="col-lg-8">
+                        <details class="card mb-3">
+                            <summary class="card-header fw-bold" style="cursor:pointer;">მუშაობთ თუ არა 24/7 რეჟიმში?</summary>
+                            <div class="card-body">დიახ, ჩვენ ვმუშაობთ 24 საათი, კვირაში 7 დღე, დღესასწაულების ჩათვლით. ევაკუატორის გამოძახება შესაძლებელია ნებისმიერ დროს ნომერზე +995 514 90 80 90.</div>
+                        </details>
+                        <details class="card mb-3">
+                            <summary class="card-header fw-bold" style="cursor:pointer;">რამდენ ხანში ჩამოხვალთ?</summary>
+                            <div class="card-body">თბილისის ფარგლებში ჩვენი ევაკუატორი ჩვეულებრივ ჩამოდის 20-30 წუთში გამოძახებიდან.</div>
+                        </details>
+                        <details class="card mb-3">
+                            <summary class="card-header fw-bold" style="cursor:pointer;">რომელ ტერიტორიას ემსახურებით?</summary>
+                            <div class="card-body">ვმუშაობთ თბილისში და მთელი საქართველოს მასშტაბით.</div>
+                        </details>
+                        <details class="card mb-3">
+                            <summary class="card-header fw-bold" style="cursor:pointer;">რა ტიპის ავტომობილებს ემსახურებით?</summary>
+                            <div class="card-body">ვემსახურებით ყველა ტიპის ავტომობილს — სედანი, ჯიპი, მიკროავტობუსი, მოტოციკლეტი და სხვა.</div>
+                        </details>
+                        <details class="card mb-3">
+                            <summary class="card-header fw-bold" style="cursor:pointer;">რა სერვისებს სთავაზობთ?</summary>
+                            <div class="card-body">ევაკუატორი, ავტომობილის დაქოქვა, საბურავის შეცვლა, საწვავის მიწოდება, მანქანის გაღება და სხვა საგზაო დახმარება 24/7 რეჟიმში.</div>
+                        </details>
+                    </div>
+                </div>
+            </div>
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              "mainEntity": [
+                {"@type": "Question", "name": "მუშაობთ თუ არა 24/7 რეჟიმში?", "acceptedAnswer": {"@type": "Answer", "text": "დიახ, ჩვენ ვმუშაობთ 24 საათი, კვირაში 7 დღე, დღესასწაულების ჩათვლით. ევაკუატორის გამოძახება შესაძლებელია ნებისმიერ დროს ნომერზე +995 514 90 80 90."}},
+                {"@type": "Question", "name": "რამდენ ხანში ჩამოხვალთ?", "acceptedAnswer": {"@type": "Answer", "text": "თბილისის ფარგლებში ჩვენი ევაკუატორი ჩვეულებრივ ჩამოდის 20-30 წუთში გამოძახებიდან."}},
+                {"@type": "Question", "name": "რომელ ტერიტორიას ემსახურებით?", "acceptedAnswer": {"@type": "Answer", "text": "ვმუშაობთ თბილისში და მთელი საქართველოს მასშტაბით."}},
+                {"@type": "Question", "name": "რა ტიპის ავტომობილებს ემსახურებით?", "acceptedAnswer": {"@type": "Answer", "text": "ვემსახურებით ყველა ტიპის ავტომობილს — სედანი, ჯიპი, მიკროავტობუსი, მოტოციკლეტი და სხვა."}},
+                {"@type": "Question", "name": "რა სერვისებს სთავაზობთ?", "acceptedAnswer": {"@type": "Answer", "text": "ევაკუატორი, ავტომობილის დაქოქვა, საბურავის შეცვლა, საწვავის მიწოდება, მანქანის გაღება და სხვა საგზაო დახმარება 24/7 რეჟიმში."}}
+              ]
+            }
+            </script>
+        </section>
         <!-- Contact section-->
         <section class="py-5 bg-light" id="contact">
             <div class="container px-5 my-5 px-5">
