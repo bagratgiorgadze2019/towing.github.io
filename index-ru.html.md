@@ -135,6 +135,18 @@ Canonical: https://towing.ge/index-ru.html
 
 [Позвонить: +995 555 52 32 51](tel:+995555523251)
 
+## Наш эвакуатор в работе
+
+Реальные вызовы в Тбилиси — посмотрите, как мы грузим и перевозим автомобили.
+
+**Эвакуация внедорожника — Mercedes G-Class на платформе**
+[Смотреть на YouTube →](https://www.youtube.com/shorts/AoWC5TgFftc)
+
+**Эвакуация микроавтобуса — Ford Transit**
+[Смотреть на YouTube →](https://www.youtube.com/shorts/cQTS3PP-SXQ)
+
+[Все видео на нашем YouTube-канале →](https://www.youtube.com/@towingge)
+
 ## Часто задаваемые вопросы
 
 Ответы на самые распространённые вопросы

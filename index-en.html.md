@@ -135,6 +135,18 @@ We offer tourist services and group tours across Georgia. Comfortable transport 
 
 [Call: +995 555 52 32 51](tel:+995555523251)
 
+## Our tow truck at work
+
+Real jobs in Tbilisi — see how we load and transport vehicles.
+
+**SUV towing — Mercedes G-Class on the platform**
+[Watch on YouTube →](https://www.youtube.com/shorts/AoWC5TgFftc)
+
+**Minibus towing — Ford Transit**
+[Watch on YouTube →](https://www.youtube.com/shorts/cQTS3PP-SXQ)
+
+[All videos on our YouTube channel →](https://www.youtube.com/@towingge)
+
 ## Frequently Asked Questions
 
 Answers to the most common questions

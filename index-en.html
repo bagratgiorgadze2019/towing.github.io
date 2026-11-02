@@ -66,9 +66,55 @@
             "closes": "23:59"
           },
           "sameAs": [
-            "https://www.facebook.com/evakuatoris.gamodzaxeba"
+            "https://www.facebook.com/evakuatoris.gamodzaxeba",
+            "https://www.youtube.com/@towingge"
           ]
         }
+        </script>
+        <!-- /google -->
+        <!-- google -->
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "VideoObject",
+      "name": "ევაკუატორი თბილისში 24/7 | Tow Truck Tbilisi — SUV towing — Mercedes G-Class on the platform",
+      "description": "Towing.ge tow truck in Tbilisi loading a Mercedes G-Class — safe flatbed towing of an SUV. Tow truck 24/7, ☎ +995 514 90 80 90.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/AoWC5TgFftc/oar2.jpg",
+        "https://i.ytimg.com/vi/AoWC5TgFftc/hqdefault.jpg"
+      ],
+      "uploadDate": "2026-11-02",
+      "contentUrl": "https://www.youtube.com/shorts/AoWC5TgFftc",
+      "embedUrl": "https://www.youtube.com/embed/AoWC5TgFftc",
+      "inLanguage": "ka",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Towing.ge",
+        "url": "https://towing.ge/"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "ევაკუატორი თბილისში 24/7 | Tow Truck Tbilisi — Minibus towing — Ford Transit",
+      "description": "Towing.ge tow truck in Tbilisi transporting a Ford Transit minibus — tow truck Tbilisi in all directions, 24/7, ☎ +995 514 90 80 90.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/cQTS3PP-SXQ/oar2.jpg",
+        "https://i.ytimg.com/vi/cQTS3PP-SXQ/hqdefault.jpg"
+      ],
+      "uploadDate": "2026-11-02",
+      "contentUrl": "https://www.youtube.com/shorts/cQTS3PP-SXQ",
+      "embedUrl": "https://www.youtube.com/embed/cQTS3PP-SXQ",
+      "inLanguage": "ka",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Towing.ge",
+        "url": "https://towing.ge/"
+      }
+    }
+  ]
+}
         </script>
         <!-- /google -->
     </head>
@@ -409,6 +455,37 @@
             </div>
         </section>
         
+        <!-- Videos section-->
+        <section class="py-5 border-top" id="videos">
+            <div class="container px-5 my-4">
+                <div class="text-center mb-4">
+                    <h2 class="fw-bolder">Our tow truck at work</h2>
+                    <p class="lead mb-0">Real jobs in Tbilisi — see how we load and transport vehicles.</p>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="yt-short">
+                            <button type="button" class="yt-facade" data-id="AoWC5TgFftc" aria-label="Play video: SUV towing — Mercedes G-Class on the platform">
+                                <img src="https://i.ytimg.com/vi/AoWC5TgFftc/oar2.jpg" loading="lazy" width="270" height="480" alt="SUV towing — Mercedes G-Class on the platform">
+                                <span class="yt-play" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                        <p class="small mt-2 mb-0"><strong>SUV towing — Mercedes G-Class on the platform</strong><br><a href="https://www.youtube.com/shorts/AoWC5TgFftc" target="_blank" rel="noopener" class="text-decoration-none">Watch on YouTube →</a></p>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="yt-short">
+                            <button type="button" class="yt-facade" data-id="cQTS3PP-SXQ" aria-label="Play video: Minibus towing — Ford Transit">
+                                <img src="https://i.ytimg.com/vi/cQTS3PP-SXQ/oar2.jpg" loading="lazy" width="270" height="480" alt="Minibus towing — Ford Transit">
+                                <span class="yt-play" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                        <p class="small mt-2 mb-0"><strong>Minibus towing — Ford Transit</strong><br><a href="https://www.youtube.com/shorts/cQTS3PP-SXQ" target="_blank" rel="noopener" class="text-decoration-none">Watch on YouTube →</a></p>
+                    </div>
+                </div>
+                <p class="text-center mt-4 mb-0"><a href="https://www.youtube.com/@towingge" target="_blank" rel="noopener" class="fw-bold text-decoration-none"><i class="bi bi-youtube me-2 text-danger"></i>All videos on our YouTube channel →</a></p>
+            </div>
+        </section>
+
         <!-- FAQ section-->
         <section class="py-5 border-top" id="faq">
             <div class="container px-5 my-5">
@@ -578,6 +655,18 @@
                         }
                     });
                 }
+            });
+        </script>
+        <script>
+            document.addEventListener('click', function (e) {
+                var b = e.target.closest('.yt-facade');
+                if (!b) return;
+                var f = document.createElement('iframe');
+                f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.id + '?autoplay=1&playsinline=1&rel=0';
+                f.title = b.getAttribute('aria-label');
+                f.allow = 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share';
+                f.allowFullscreen = true;
+                b.replaceWith(f);
             });
         </script>
     </body>

@@ -147,6 +147,18 @@ Canonical: https://towing.ge/
 
 [დარეკეთ: +995 555 52 32 51](tel:+995555523251)
 
+## ჩვენი ევაკუატორი მუშაობისას
+
+ნამდვილი გამოძახებები თბილისში — ნახეთ, როგორ ვტვირთავთ და გადაგვყავს ავტომობილები.
+
+**ჯიპის ევაკუაცია — Mercedes G-Class პლატფორმაზე**
+[YouTube-ზე ნახვა →](https://www.youtube.com/shorts/AoWC5TgFftc)
+
+**მიკროავტობუსის ევაკუაცია — Ford Transit**
+[YouTube-ზე ნახვა →](https://www.youtube.com/shorts/cQTS3PP-SXQ)
+
+[ყველა ვიდეო ჩვენს YouTube არხზე →](https://www.youtube.com/@towingge)
+
 ## ხშირად დასმული კითხვები
 
 პასუხები ყველაზე გავრცელებულ კითხვებზე

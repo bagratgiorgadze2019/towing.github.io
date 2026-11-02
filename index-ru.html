@@ -66,9 +66,55 @@
             "closes": "23:59"
           },
           "sameAs": [
-            "https://www.facebook.com/evakuatoris.gamodzaxeba"
+            "https://www.facebook.com/evakuatoris.gamodzaxeba",
+            "https://www.youtube.com/@towingge"
           ]
         }
+        </script>
+        <!-- /google -->
+        <!-- google -->
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "VideoObject",
+      "name": "ევაკუატორი თბილისში 24/7 | Tow Truck Tbilisi — Эвакуация внедорожника — Mercedes G-Class на платформе",
+      "description": "Эвакуатор Towing.ge в Тбилиси грузит Mercedes G-Class — безопасная эвакуация внедорожника на платформе. Эвакуатор 24/7, ☎ +995 514 90 80 90.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/AoWC5TgFftc/oar2.jpg",
+        "https://i.ytimg.com/vi/AoWC5TgFftc/hqdefault.jpg"
+      ],
+      "uploadDate": "2026-11-02",
+      "contentUrl": "https://www.youtube.com/shorts/AoWC5TgFftc",
+      "embedUrl": "https://www.youtube.com/embed/AoWC5TgFftc",
+      "inLanguage": "ka",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Towing.ge",
+        "url": "https://towing.ge/"
+      }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "ევაკუატორი თბილისში 24/7 | Tow Truck Tbilisi — Эвакуация микроавтобуса — Ford Transit",
+      "description": "Эвакуатор Towing.ge в Тбилиси перевозит микроавтобус Ford Transit — эвакуатор Тбилиси во всех направлениях, 24/7, ☎ +995 514 90 80 90.",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/cQTS3PP-SXQ/oar2.jpg",
+        "https://i.ytimg.com/vi/cQTS3PP-SXQ/hqdefault.jpg"
+      ],
+      "uploadDate": "2026-11-02",
+      "contentUrl": "https://www.youtube.com/shorts/cQTS3PP-SXQ",
+      "embedUrl": "https://www.youtube.com/embed/cQTS3PP-SXQ",
+      "inLanguage": "ka",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Towing.ge",
+        "url": "https://towing.ge/"
+      }
+    }
+  ]
+}
         </script>
         <!-- /google -->
     </head>
@@ -410,6 +456,37 @@
             </div>
         </section>
         
+        <!-- Videos section-->
+        <section class="py-5 border-top" id="videos">
+            <div class="container px-5 my-4">
+                <div class="text-center mb-4">
+                    <h2 class="fw-bolder">Наш эвакуатор в работе</h2>
+                    <p class="lead mb-0">Реальные вызовы в Тбилиси — посмотрите, как мы грузим и перевозим автомобили.</p>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="yt-short">
+                            <button type="button" class="yt-facade" data-id="AoWC5TgFftc" aria-label="Воспроизвести видео: Эвакуация внедорожника — Mercedes G-Class на платформе">
+                                <img src="https://i.ytimg.com/vi/AoWC5TgFftc/oar2.jpg" loading="lazy" width="270" height="480" alt="Эвакуация внедорожника — Mercedes G-Class на платформе">
+                                <span class="yt-play" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                        <p class="small mt-2 mb-0"><strong>Эвакуация внедорожника — Mercedes G-Class на платформе</strong><br><a href="https://www.youtube.com/shorts/AoWC5TgFftc" target="_blank" rel="noopener" class="text-decoration-none">Смотреть на YouTube →</a></p>
+                    </div>
+                    <div class="col-6 col-md-4 col-lg-3">
+                        <div class="yt-short">
+                            <button type="button" class="yt-facade" data-id="cQTS3PP-SXQ" aria-label="Воспроизвести видео: Эвакуация микроавтобуса — Ford Transit">
+                                <img src="https://i.ytimg.com/vi/cQTS3PP-SXQ/oar2.jpg" loading="lazy" width="270" height="480" alt="Эвакуация микроавтобуса — Ford Transit">
+                                <span class="yt-play" aria-hidden="true"></span>
+                            </button>
+                        </div>
+                        <p class="small mt-2 mb-0"><strong>Эвакуация микроавтобуса — Ford Transit</strong><br><a href="https://www.youtube.com/shorts/cQTS3PP-SXQ" target="_blank" rel="noopener" class="text-decoration-none">Смотреть на YouTube →</a></p>
+                    </div>
+                </div>
+                <p class="text-center mt-4 mb-0"><a href="https://www.youtube.com/@towingge" target="_blank" rel="noopener" class="fw-bold text-decoration-none"><i class="bi bi-youtube me-2 text-danger"></i>Все видео на нашем YouTube-канале →</a></p>
+            </div>
+        </section>
+
         <!-- FAQ section-->
         <section class="py-5 border-top" id="faq">
             <div class="container px-5 my-5">
@@ -579,6 +656,18 @@
                         }
                     });
                 }
+            });
+        </script>
+        <script>
+            document.addEventListener('click', function (e) {
+                var b = e.target.closest('.yt-facade');
+                if (!b) return;
+                var f = document.createElement('iframe');
+                f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.id + '?autoplay=1&playsinline=1&rel=0';
+                f.title = b.getAttribute('aria-label');
+                f.allow = 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share';
+                f.allowFullscreen = true;
+                b.replaceWith(f);
             });
         </script>
     </body>
