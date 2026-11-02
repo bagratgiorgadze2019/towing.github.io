@@ -1,37 +1,43 @@
-# Towing.ge — ევაკუატორის გამოძახება / Tow Truck Service in Tbilisi
+# Towing.ge — ევაკუატორი თბილისი / Tow Truck in Tbilisi, Georgia
 
-> Towing.ge is a 24/7 tow truck and roadside-assistance company based in Tbilisi, Georgia.
-> We provide fast vehicle recovery and emergency roadside help across Tbilisi and all of Georgia,
-> with a typical arrival time of 20–30 minutes within Tbilisi.
+> Towing.ge is a 24/7 tow truck (ევაკუატორი) and roadside-assistance company in Tbilisi, Georgia. It tows all vehicle types (sedans, SUVs, vans, motorcycles), has a crane "spider" tow truck (ობობა ევაკუატორი) for hard-to-reach places, and serves every Tbilisi district and all of Georgia. Typical arrival time within Tbilisi is 20–30 minutes. Call +995 514 90 80 90.
+
+Every page below has a clean Markdown copy (the `.md` links). The full site in one file: https://towing.ge/llms-full.txt
 
 ## Contact
+- Phone (24/7): +995 514 90 80 90 — also WhatsApp and Viber
+- Mobile vulcanization line: +995 511 14 82 85
+- Tourist service & group tours: +995 555 52 32 51
 - Email: info@towing.ge
-- Phone (main): +995 514 90 80 90
-- Phone (tourist service & group tours): +995 555 52 32 51
-- Website: https://towing.ge
+- Address: Khizanishvili street (ხიზანიშვილის ქუჩა), Tbilisi 0167, Georgia
 - Hours: 24/7, including weekends and holidays
-- Service area: Tbilisi and all of Georgia
+- Service area: all Tbilisi districts (Vake, Saburtalo, Vera, Mtatsminda, Old Tbilisi, Avlabari, Isani, Samgori, Varketili, Chughureti, Didube, Nadzaladevi, Gldani, Dighomi, Temka, Ortachala, Krtsanisi, Avchala, Lilo, Vazisubani, Tskneti, Okrokana) and all of Georgia
+- Google Business Profile: https://share.google/x3qlewegYCwtLG5CQ — leave a review: https://g.page/r/CW1gUxKtUO8rECE/review
+- Prices: depend on distance, vehicle type and condition; quoted by phone before dispatch
 
-## Services
-- Towing / tow truck (ევაკუატორის სერვისი) — safe transport of all vehicle types
-- Jump start / battery boost (დაქოქვის სერვისი)
-- Mobile battery replacement (აკუმულატორის შეცვლა)
-- Tire change (საბურავის შეცვლა) and new/used tire sales
-- Fuel delivery (საწვავის მიწოდება)
-- Car lockout assistance (მანქანის გაღება)
-- Driver service (მძღოლის სერვისი)
-- Spider tow truck service (ობობა ევაკუატორი)
-- Mobile vulcanization (მოძრავი ვულკანიზაცია)
-- Pipe welding (მილების შედუღება) — polyethylene PE/HDPE pipe welding, D40–D250; pressure sewer installation, trenchless laying ("mole"), drilling/pipe laying, installation and repair
-- Land Rover parts (2008–2025) & auto service
-- Sewage pumping & pressure pipe cleaning
-- Tourist service & group tours across Georgia (ტურისტული სერვისი, ჯგუფური ტურები)
+## Tow truck (ევაკუატორი)
+- [ევაკუატორი თბილისი — homepage](https://towing.ge/index.html.md): 24/7 tow truck in Tbilisi, all services
+- [ევაკუატორი თბილისის ყველა უბანში](https://towing.ge/evakuatori-tbilisi/index.html.md): tow truck in every Tbilisi district, towing types, how to call, FAQ
+- [ევაკუატორის გამოძახება](https://towing.ge/evakuatoris-gamodzaxeba/index.html.md): how to call a tow truck — 3 steps, when you need one, safety tips while waiting
+- [ობობა ევაკუატორი](https://towing.ge/services/oboba-evakuatori/index.html.md): crane (spider) tow truck for narrow streets, yards, tight parking, vehicles that cannot roll
 
-## Key pages (Georgian)
-- ევაკუატორი თბილისის ყველა უბანში (tow truck in every Tbilisi district, 24/7, 20–30 min arrival) — https://towing.ge/evakuatori-tbilisi/
-- ევაკუატორის გამოძახება (how to call a tow truck — steps, safety tips, 24/7) — https://towing.ge/evakuatoris-gamodzaxeba/
+## Roadside assistance
+- [აკუმულატორის შეცვლა გამოძახებით](https://towing.ge/services/akumulatoris-shecvla/index.html.md): battery selection, delivery and installation on site, 24/7
+- [ავტომობილის დაქოქვა](https://towing.ge/services/avtomobilis-dakokva/index.html.md): car jump start on site
+- [მოძრავი ვულკანიზაცია](https://towing.ge/services/modzravi-vulkanizacia/index.html.md): mobile tyre repair — puncture repair, tyre change, pressure check (sister site: https://vulkanizacia.ge)
+- [საბურავის შეცვლა](https://towing.ge/services/saburavis-shecvla/index.html.md): flat tyre change / spare wheel fitting on site
+- [მძღოლის სერვისი](https://towing.ge/services/mdzgvolis-servisi/index.html.md): professional driver drives your car to your destination
+- Fuel delivery (საწვავის მიწოდება) and car lockout opening (მანქანის გაღება) — described on the homepage
 
-## Languages
-- Georgian: https://towing.ge/
-- English: https://towing.ge/index-en.html
-- Russian: https://towing.ge/index-ru.html
+## Other services
+- [მილების შედუღება](https://towing.ge/services/milebis-shedugheba/index.html.md): polyethylene PE/HDPE pipe welding D40–D250, pressure sewer installation, trenchless laying
+- New and used tyres, Land Rover parts (2008–2025) and auto service, Land Rover dismantling, sewage pumping, pressure pipe cleaning, tourist service and group tours — described on the homepage
+
+## English and Russian
+- [Tow truck Tbilisi — English homepage](https://towing.ge/index-en.html.md)
+- [Эвакуатор Тбилиси — русская главная](https://towing.ge/index-ru.html.md)
+- English and Russian service pages: same URLs as above with `index-en.html.md` / `index-ru.html.md` (jump start, driver service, tyre change, pipe welding)
+
+## Optional
+- [Full site in one file](https://towing.ge/llms-full.txt)
+- [Sitemap](https://towing.ge/sitemap.xml)

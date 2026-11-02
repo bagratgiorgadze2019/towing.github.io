@@ -7,18 +7,18 @@
 
 <url>
   <loc>https://towing.ge/</loc>
-  <lastmod>2026-10-24</lastmod>
+  <lastmod>2026-11-03</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
     <loc>https://towing.ge/evakuatori-tbilisi/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
 </url>
 <url>
     <loc>https://towing.ge/evakuatoris-gamodzaxeba/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
 </url>
@@ -60,5 +60,8 @@
 <url><loc>https://towing.ge/services/saburavis-shecvla/index-en.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.70</priority></url>
 <url><loc>https://towing.ge/services/saburavis-shecvla/index-ru.html</loc><lastmod>2026-06-22</lastmod><changefreq>monthly</changefreq><priority>0.70</priority></url>
 
+<url><loc>https://towing.ge/services/oboba-evakuatori/</loc><lastmod>2026-11-03</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>https://towing.ge/services/akumulatoris-shecvla/</loc><lastmod>2026-11-03</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
+<url><loc>https://towing.ge/services/modzravi-vulkanizacia/</loc><lastmod>2026-11-03</lastmod><changefreq>monthly</changefreq><priority>0.80</priority></url>
 
 </urlset>
