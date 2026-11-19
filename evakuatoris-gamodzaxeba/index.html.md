@@ -40,7 +40,7 @@ Canonical: https://towing.ge/evakuatoris-gamodzaxeba/
 - დიდი ხნის გაჩერებული ან უნომრო ავტომობილის გადატანა
 - ავტომობილის გადაყვანა სხვა ქალაქში
 
-თუ მხოლოდ აკუმულატორი დაჯდა ან საბურავი დაგეხათ, ევაკუატორი შეიძლება საჭირო არც იყოს — [დაქოქვას](https://towing.ge/services/avtomobilis-dakokva/) ან [საბურავის შეცვლას](https://towing.ge/services/saburavis-shecvla/) ადგილზევე გავაკეთებთ.
+თუ მხოლოდ აკუმულატორი დაჯდა ან საბურავი გაგისკდათ, ევაკუატორი შეიძლება საჭირო არც იყოს — [დაქოქვას](https://towing.ge/services/avtomobilis-dakokva/) ან [საბურავის შეცვლას](https://towing.ge/services/saburavis-shecvla/) ადგილზევე გავაკეთებთ.
 
 ## სანამ ევაკუატორი მოვა — უსაფრთხოების რჩევები
 
