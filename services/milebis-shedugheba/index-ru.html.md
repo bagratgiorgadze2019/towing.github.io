@@ -67,6 +67,4 @@ Canonical: https://towing.ge/services/milebis-shedugheba/index-ru.html
 
 ### Другие услуги
 
-- [Откачка канализации](https://towing.ge/index-ru.html#services)
-- [Промывка труб под давлением](https://towing.ge/index-ru.html#services)
 - [Все услуги →](https://towing.ge/index-ru.html#services)

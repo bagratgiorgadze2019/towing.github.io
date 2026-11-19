@@ -67,6 +67,4 @@ Contact us for a free consultation — available 24/7.
 
 ### Other Services
 
-- [Sewage pumping](https://towing.ge/index-en.html#services)
-- [Pressure pipe cleaning](https://towing.ge/index-en.html#services)
 - [All services →](https://towing.ge/index-en.html#services)

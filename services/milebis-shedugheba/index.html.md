@@ -68,8 +68,6 @@ Canonical: https://towing.ge/services/milebis-shedugheba/
 ### სხვა სერვისები
 
 - [ევაკუატორი თბილისის უბნებში](https://towing.ge/evakuatori-tbilisi/)
-- [კანალიზაციის ამოტუმბვა](https://towing.ge/#services)
-- [მილების წნევით რეცხვა](https://towing.ge/#services)
 - [ობობა ევაკუატორი](https://towing.ge/services/oboba-evakuatori/)
 - [აკუმულატორის შეცვლა](https://towing.ge/services/akumulatoris-shecvla/)
 - [მოძრავი ვულკანიზაცია](https://towing.ge/services/modzravi-vulkanizacia/)

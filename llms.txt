@@ -32,7 +32,7 @@ Every page below has a clean Markdown copy (the `.md` links). The full site in o
 
 ## Other services
 - [მილების შედუღება](https://towing.ge/services/milebis-shedugheba/index.html.md): polyethylene PE/HDPE pipe welding D40–D250, pressure sewer installation, trenchless laying
-- New and used tyres, Land Rover parts (2008–2025) and auto service, Land Rover dismantling, sewage pumping, pressure pipe cleaning, tourist service and group tours — described on the homepage
+- New and used tyres, Land Rover parts (2008–2025) and auto service, Land Rover dismantling, tourist service and group tours — described on the homepage
 
 ## Videos
 - [Tow truck Tbilisi — Mercedes G-Class SUV on the platform (YouTube Short)](https://www.youtube.com/shorts/AoWC5TgFftc)

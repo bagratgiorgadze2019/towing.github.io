@@ -137,18 +137,6 @@ Canonical: https://towing.ge/
 
 [დარეკეთ: +995 514 90 80 90](tel:+995514908090)
 
-## კანალიზაციის ამოტუმბვა
-
-პროფესიონალური ტექნიკით ვასრულებთ კანალიზაციის ამოტუმბვას სწრაფად და უსაფრთხოდ. მომსახურება 24/7 ნებისმიერ ლოკაციაზე.
-
-[დარეკეთ: +995 514 90 80 90](tel:+995514908090)
-
-## მილების წნევით რეცხვა
-
-მაღალი წნევის ტექნოლოგიით ვწმენდთ მილებს სწრაფად და ეფექტურად. უზრუნველყოფილია clog-ის სრულად მოშორება.
-
-[დარეკეთ: +995 514 90 80 90](tel:+995514908090)
-
 ## ტურისტული სერვისი, ჯგუფური ტურები
 
 ვთავაზობთ ტურისტულ მომსახურებას და ჯგუფურ ტურებს საქართველოს მასშტაბით. კომფორტული ტრანსპორტი და გამოცდილი გიდები დაუვიწყარი მოგზაურობისთვის.
@@ -838,8 +826,6 @@ Canonical: https://towing.ge/services/milebis-shedugheba/
 ### სხვა სერვისები
 
 - [ევაკუატორი თბილისის უბნებში](https://towing.ge/evakuatori-tbilisi/)
-- [კანალიზაციის ამოტუმბვა](https://towing.ge/#services)
-- [მილების წნევით რეცხვა](https://towing.ge/#services)
 - [ობობა ევაკუატორი](https://towing.ge/services/oboba-evakuatori/)
 - [აკუმულატორის შეცვლა](https://towing.ge/services/akumulatoris-shecvla/)
 - [მოძრავი ვულკანიზაცია](https://towing.ge/services/modzravi-vulkanizacia/)
@@ -1295,18 +1281,6 @@ Engine parts, gearbox, computer, body parts — high-quality original components
 
 [Call: +995 514 90 80 90](tel:+995514908090)
 
-## Sewage Pumping
-
-We offer fast and reliable sewage pumping with professional equipment. Available 24/7 for emergency services.
-
-[Call: +995 514 90 80 90](tel:+995514908090)
-
-## Pressure Pipe Cleaning
-
-We use high-pressure water technology to clean pipes thoroughly, removing all blockages quickly and efficiently.
-
-[Call: +995 514 90 80 90](tel:+995514908090)
-
 ## Tourist Service & Group Tours
 
 We offer tourist services and group tours across Georgia. Comfortable transport and experienced guides for an unforgettable journey.
@@ -1593,8 +1567,6 @@ Contact us for a free consultation — available 24/7.
 
 ### Other Services
 
-- [Sewage pumping](https://towing.ge/index-en.html#services)
-- [Pressure pipe cleaning](https://towing.ge/index-en.html#services)
 - [All services →](https://towing.ge/index-en.html#services)
 
 
@@ -1793,18 +1765,6 @@ Canonical: https://towing.ge/index-ru.html
 Детали двигателя, коробка передач, компьютер, кузовные детали — качественные оригинальные комплектующие
 
 [Позвоните: +995 514 90 80 90](tel:+995514908090)
-
-## Откачка канализации
-
-Быстрая и безопасная откачка сточных вод с использованием профессиональной техники. Круглосуточное обслуживание.
-
-[Позвонить: +995 514 90 80 90](tel:+995514908090)
-
-## Промывка труб под давлением
-
-Эффективная очистка труб с использованием технологии высокого давления. Полное удаление засоров и отложений.
-
-[Позвонить: +995 514 90 80 90](tel:+995514908090)
 
 ## Туристический сервис, групповые туры
 
@@ -2092,8 +2052,6 @@ Canonical: https://towing.ge/services/milebis-shedugheba/index-ru.html
 
 ### Другие услуги
 
-- [Откачка канализации](https://towing.ge/index-ru.html#services)
-- [Промывка труб под давлением](https://towing.ge/index-ru.html#services)
 - [Все услуги →](https://towing.ge/index-ru.html#services)
 
 

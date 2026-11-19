@@ -117,18 +117,6 @@ Engine parts, gearbox, computer, body parts — high-quality original components
 
 [Call: +995 514 90 80 90](tel:+995514908090)
 
-## Sewage Pumping
-
-We offer fast and reliable sewage pumping with professional equipment. Available 24/7 for emergency services.
-
-[Call: +995 514 90 80 90](tel:+995514908090)
-
-## Pressure Pipe Cleaning
-
-We use high-pressure water technology to clean pipes thoroughly, removing all blockages quickly and efficiently.
-
-[Call: +995 514 90 80 90](tel:+995514908090)
-
 ## Tourist Service & Group Tours
 
 We offer tourist services and group tours across Georgia. Comfortable transport and experienced guides for an unforgettable journey.
