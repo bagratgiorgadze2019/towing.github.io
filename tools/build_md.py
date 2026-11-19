@@ -1,7 +1,7 @@
 """Build AI-readable Markdown for towing.ge (llms.txt convention).
 
 For every HTML page it writes a clean Markdown copy next to it (`index.html` -> `index.html.md`,
-`index-en.html` -> `index-en.html.md`), adds `<link rel="alternate" type="text/markdown">` to the
+`index-en.html` -> `index-en.html.md`, plus `index.md` / `index-en.md`), adds `<link rel="alternate" type="text/markdown">` to the
 HTML head, and regenerates `llms-full.txt` (all pages in one file).
 
 Run from the repo root after editing any page:  python3 tools/build_md.py
@@ -191,8 +191,10 @@ def build(rel):
     md = (f"# {heading}\n\n> {desc}\n\n"
           f"Canonical: {url}\n{lang_line}\n"
           f"{FACTS[lang]}\n{content}")
-    out = ROOT / (rel + ".md")
-    out.write_text(md, encoding="utf-8")
+    # page.html -> page.html.md (llms.txt convention) and page.md (e.g. /foo/index.md), so both URL styles work
+    (ROOT / (rel + ".md")).write_text(md, encoding="utf-8")
+    if rel.endswith(".html"):
+        (ROOT / (rel[:-len(".html")] + ".md")).write_text(md, encoding="utf-8")
 
     # advertise the Markdown copy from the HTML head
     md_url = f"{SITE}/{rel}.md"
